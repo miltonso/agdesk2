@@ -5,11 +5,12 @@ python delete_migrations.py & python manage.py makemigrations & python manage.py
 
 # Make it work
 
-Nextjs frontend
-# terminal_1
+## Nextjs frontend
+terminal_1
 npm run dev
 
-Django server
-# terminal_2
+### Django server
+terminal_2
 python manage.py runserver
+
 Now you can see Nextjs running on Django server port 8000.
