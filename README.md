@@ -1,6 +1,7 @@
 # agdesk1
 correct your database detail in .env file
 then run,
+
 python delete_migrations.py & python manage.py makemigrations & python manage.py migrate
 
 # Make it work
